@@ -54,7 +54,7 @@ We offer free support on the [SiteOrigin support forums](https://siteorigin.com/
 
 = Actively Developed =
 
-Page Builder is actively developed with new features and exciting enhancements all the time. Keep track on the [Page Builder GitHub repository](https://github.com/Super-Phantoms/WordPress-panels-devleop).
+Page Builder is actively developed with new features and exciting enhancements all the time. Keep track on the [Page Builder GitHub repository](https://github.com/Super-Phantoms/WordPress-panels-develop).
 
 Read the [Page Builder developer docs](https://siteorigin.com/docs/page-builder/) if you'd like to develop for Page Builder.
 
